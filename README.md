@@ -82,7 +82,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats. [[:page_facing_up: Paper](https://arxiv.org/abs/2410.12781) | [:computer: Code](https://github.com/arthurhero/Long-LRM)｜[:globe_with_meridians: Project Page](https://arthurhero.github.io/projects/llrm/)]
 
 ### Cross-View Fusion
-
+- PAGE-4D: Disentangled Pose and Geometry Estimation for VGGT-4D Perception. [[:page_facing_up: Paper](https://arxiv.org/pdf/2510.17568) | [:computer: Code](https://github.com/kaichen-z/PAGE4D)｜[:globe_with_meridians: Project Page](https://page4d.github.io/)]
 - AttnRend: Learning to Render Novel Views from Wide-Baseline Stereo Pairs. [[:page_facing_up: Paper](https://arxiv.org/abs/2304.08463) | [:computer: Code](https://github.com/yilundu/cross_attention_renderer)｜[:globe_with_meridians: Project Page](https://yilundu.github.io/wide_baseline/)]
 - Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis. [[:page_facing_up: Paper](https://arxiv.org/abs/2404.06109) | [:computer: Code](https://github.com/tatakai1/eFreeSplat)｜[:globe_with_meridians: Project Page](https://tatakai1.github.io/efreesplat/)]
 - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
